@@ -1,1 +1,1 @@
-# ZaverecnyProjekt
+Aplikace slouží pro správu pojištěných osob. Dokáže vytvořit pojištěného, eviduje jméno, příjmení, věk a telefonní číslo. Zobrazení seznamu všech pojištěných a vyhledání pojištěných podle jména a příjmění. Dané entity jsou uloženy v kolekci v paměti.
